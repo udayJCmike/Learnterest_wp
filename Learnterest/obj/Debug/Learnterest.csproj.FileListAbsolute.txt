@@ -1,0 +1,195 @@
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Learnterest.dll
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Learnterest.pdb
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\AppManifest.xaml
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Learnterest_Debug_AnyCPU.xap
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\App.g.cs
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\About.g.cs
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Authenticate.g.cs
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Contact.g.cs
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\ExploreCourses.g.cs
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Help.g.cs
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Mainpage.g.cs
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Policies.g.cs
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Learnterest.g.resources
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Learnterest.Resources.AppResources.resources
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Learnterest.csproj.GenerateResource.Cache
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Learnterest.dll
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\Learnterest.pdb
+C:\Users\deemsys\documents\visual studio 2012\Projects\Learnterest\Learnterest\obj\Debug\XapCacheFile.xml
+H:\Project\Learnterest\Learnterest\Bin\Debug\Assets\ApplicationIcon.png
+H:\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+H:\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+H:\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+H:\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+H:\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+H:\Project\Learnterest\Learnterest\Bin\Debug\Learnterest.dll
+H:\Project\Learnterest\Learnterest\Bin\Debug\Learnterest.pdb
+H:\Project\Learnterest\Learnterest\Bin\Debug\AppManifest.xaml
+H:\Project\Learnterest\Learnterest\Bin\Debug\Learnterest_Debug_AnyCPU.xap
+H:\Project\Learnterest\Learnterest\Bin\Debug\Microsoft.Phone.Controls.dll
+H:\Project\Learnterest\Learnterest\obj\Debug\App.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\About.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\AddCategory.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Authenticate.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\AuthorCourses.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Billing.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\BillingDetail.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\CategoryCourses.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Contact.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\CourseDetail.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\ExploreCourses.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Help.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Home.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Inbox.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\InboxDetail.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Mainpage.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\MyAuthors.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\MyCategories.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\MyCourses.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\MyFavourites.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Policies.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Profile.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Search.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\SearchHome.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Settings.g.cs
+H:\Project\Learnterest\Learnterest\obj\Debug\Learnterest.g.resources
+H:\Project\Learnterest\Learnterest\obj\Debug\Learnterest.Resources.AppResources.resources
+H:\Project\Learnterest\Learnterest\obj\Debug\Learnterest.csproj.GenerateResource.Cache
+H:\Project\Learnterest\Learnterest\obj\Debug\Learnterest.dll
+H:\Project\Learnterest\Learnterest\obj\Debug\Learnterest.pdb
+H:\Project\Learnterest\Learnterest\obj\Debug\XapCacheFile.xml
+H:\Project\Learnterest\Learnterest\obj\Debug\Learnterest.csprojResolveAssemblyReference.cache
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Learnterest.dll.config
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Learnterest.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Learnterest.pdb
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\AppManifest.xaml
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Learnterest_Debug_AnyCPU.xap
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\RateMyApp.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ar-SA\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\de-DE\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\en-GB\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\en-US\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\es-ES\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\fi-FI\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\fr-FR\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\he-IL\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\hr-HR\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\hu-HU\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\it-IT\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\lt-LT\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\nb-NO\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\nl-NL\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\pl-PL\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\pt-BR\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\pt-PT\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ro-RO\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\ru-RU\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\sl-SI\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\sv-SE\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\uk-UA\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\vi-VN\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\Bin\Debug\zh-CN\RateMyApp.resources.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Learnterest.csprojResolveAssemblyReference.cache
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\App.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\About.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\AddCategory.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Authenticate.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\AuthorCourses.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Billing.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\BillingDetail.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\CategoryCourses.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Contact.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\CourseAudio.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\CourseDetail.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\CourseText.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\CourseVideo.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\ExploreCourses.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Help.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Home.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Inbox.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\InboxDetail.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Mainpage.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\MyAuthors.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\MyCategories.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\MyCourses.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\MyFavourites.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Policies.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Profile.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Search.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\SearchHome.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Settings.g.cs
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Learnterest.g.resources
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Learnterest.Resources.AppResources.resources
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Learnterest.csproj.GenerateResource.Cache
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Learnterest.dll
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\Learnterest.pdb
+C:\Users\deemsys\Desktop\Uday Project Learnterest\Project\Learnterest\Learnterest\obj\Debug\XapCacheFile.xml

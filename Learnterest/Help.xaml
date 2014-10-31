@@ -1,0 +1,123 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Learnterest.Help"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Images/bg.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Margin="10,30,0,0" Text="SETTINGS" FontWeight="SemiBold" Foreground="White"/>
+            <TextBlock FontSize="40" FontWeight="Normal" Text="help" Margin="9,0,0,0" Foreground="White" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid Grid.Row="1">
+        <ScrollViewer>
+           
+            <StackPanel x:Name="ContentPanel" Grid.Row="1" Margin="0,0,0,0">
+              
+                    <Rectangle Margin="0,12,0,0" Fill="#FF00AEFF" Width="500" Height="50" />
+                <TextBlock Margin="12,-45,0,0" Text="Features" Foreground="White" FontWeight="Normal" FontSize="30"/>
+           <!--Inbox-->
+                
+                <toolkit:ExpanderView FontWeight="Thin" Header="       Inbox" x:Name="inbox" Margin="-50,10,12,20" FontSize="30" Foreground="Black" IsExpanded="True" Background="#FF0A0909">
+                    <toolkit:ExpanderView.Items>
+                        <Grid>
+                            <TextBlock Margin="12,0,0,0" x:Name="inboxhelp" TextWrapping="Wrap" FontSize="20" Foreground="Black" Text="Expanded Content"/>
+                        </Grid>
+                    </toolkit:ExpanderView.Items>
+                </toolkit:ExpanderView>
+                
+                <!--Billing-->
+                    <toolkit:ExpanderView FontWeight="Thin" Header="       Billing" x:Name="billing" Margin="-50,10,12,20" FontSize="30" Foreground="Black" IsExpanded="True" Background="#FF0A0909">
+                <toolkit:ExpanderView.Items>
+                    <Grid>
+                                <TextBlock Margin="12,0,0,0" x:Name="billinghelp" TextWrapping="Wrap" FontSize="20" Foreground="Black" Text="Expanded Content"/>
+                    </Grid>
+                </toolkit:ExpanderView.Items>
+            </toolkit:ExpanderView>
+                
+                <!--Home-->
+                    <toolkit:ExpanderView FontWeight="Thin" Header="       Home" x:Name="home" Margin="-50,10,12,20" FontSize="30" Foreground="Black" IsExpanded="True" Background="#FF0A0909">
+                <toolkit:ExpanderView.Items>
+                    <Grid>
+                                <TextBlock Margin="12,0,0,0" x:Name="homehelp" TextWrapping="Wrap" FontSize="20" Foreground="Black" Text="Expanded Content"/>
+                    </Grid>
+                </toolkit:ExpanderView.Items>
+            </toolkit:ExpanderView>
+                
+                <!--My Courses-->
+
+                    <toolkit:ExpanderView FontWeight="Thin" Header="       Courses" x:Name="mycourse" Margin="-50,10,12,20" FontSize="30" Foreground="Black" IsExpanded="True" Background="#FF0A0909">
+                <toolkit:ExpanderView.Items>
+                    <Grid>
+                                <TextBlock Margin="12,0,0,0" x:Name="courseshelp" TextWrapping="Wrap" FontSize="20" Foreground="Black" Text="Expanded Content"/>
+                    </Grid>
+                </toolkit:ExpanderView.Items>
+            </toolkit:ExpanderView>
+                
+                <!--My Categories-->
+                    <toolkit:ExpanderView FontWeight="Thin" Header="       Categories" x:Name="mycategory" Margin="-50,10,12,20" FontSize="30" Foreground="Black" IsExpanded="True" Background="#FF0A0909">
+                <toolkit:ExpanderView.Items>
+                    <Grid>
+                                <TextBlock Margin="12,0,0,0" x:Name="categoryhelp" TextWrapping="Wrap" FontSize="20" Foreground="Black" Text="Expanded Content"/>
+                    </Grid>
+                </toolkit:ExpanderView.Items>
+            </toolkit:ExpanderView>
+                
+                <!--My Favourites-->
+
+                    <toolkit:ExpanderView FontWeight="Thin" Header="       Favourites" x:Name="myfav" Margin="-50,10,12,20" FontSize="30" Foreground="Black" IsExpanded="True" Background="#FF0A0909">
+                <toolkit:ExpanderView.Items>
+                    <Grid>
+                                <TextBlock Margin="12,0,0,0" x:Name="favhelp" TextWrapping="Wrap" FontSize="20" Foreground="Black" Text="Expanded Content"/>
+                    </Grid>
+                </toolkit:ExpanderView.Items>
+            </toolkit:ExpanderView>
+                
+                <!--My Authors-->
+
+                    <toolkit:ExpanderView FontWeight="Thin" Header="       Authors" x:Name="myauthor" Margin="-50,10,12,20" FontSize="30" Foreground="Black" IsExpanded="True" Background="#FF0A0909">
+                <toolkit:ExpanderView.Items>
+                    <Grid>
+                                <TextBlock x:Name="authorhelp" TextWrapping="Wrap" FontSize="20" Foreground="Black" Margin="12,0,0,0" Text="Expanded Content"/>
+                    </Grid>
+                </toolkit:ExpanderView.Items>
+            </toolkit:ExpanderView>
+                
+                <!--Settings-->
+                    <toolkit:ExpanderView FontWeight="Thin" Header="       Settings" x:Name="setting" Margin="-50,10,12,20" FontSize="30" Foreground="Black" IsExpanded="True" Background="#FF0A0909">
+                <toolkit:ExpanderView.Items>
+                    <Grid>
+                                <TextBlock Margin="12,0,0,0" x:Name="settinghelp" TextWrapping="Wrap" FontSize="20" Foreground="Black" Text="Expanded Content"/>
+                    </Grid>
+                </toolkit:ExpanderView.Items>
+            </toolkit:ExpanderView>
+
+            </StackPanel>
+           
+        </ScrollViewer>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
